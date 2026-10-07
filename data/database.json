@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": "prod-table-eggs-farm-fresh",
+      "name": "Fresh Table Eggs",
+      "category": "Table Eggs",
+      "priority": 1,
+      "price": 25,
+      "pricingOptions": {
+        "perEgg": 25,
+        "perDozen": 300,
+        "perTray": 750
+      },
+      "stock": 250,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "Fresh Table Eggs collected daily from natural free-foraging hens in Razloo Kund, Kulgam. Rich golden yolk, pure valley taste, and optimum daily household nutrition.",
+      "imageUrl": "/src/assets/images/fresh_table_eggs_1791213184903.jpg",
+      "badge": "DAILY HARVEST",
+      "features": [
+        "Collected fresh every morning",
+        "Thick albumen and deep golden yolk",
+        "Natural whole-grain & pasture diet",
+        "Direct farm-gate freshness from Razloo Kund"
+      ]
+    },
+    {
+      "id": "prod-fertile-australorp",
+      "name": "Black Australorp Fertile Hatching Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 50,
+      "pricingOptions": {
+        "perEgg": 50,
+        "perDozen": 580,
+        "perTray": 1400
+      },
+      "stock": 120,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "World-record egg layer bloodline. Exceptionally hardy in freezing Kashmir winters with superior incubator fertility rate.",
+      "imageUrl": "/src/assets/images/australorp_breed_1791213223592.jpg",
+      "badge": "CHAMPION LAYER",
+      "features": [
+        "High incubator fertility",
+        "Sub-zero winter hardiness",
+        "280-300 eggs/year parent genetics"
+      ]
+    },
+    {
+      "id": "prod-fertile-wyandotte",
+      "name": "Silver Laced Wyandotte Fertile Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 300,
+      "pricingOptions": {
+        "perEgg": 300,
+        "perDozen": 3400
+      },
+      "stock": 45,
+      "stockStatus": "Limited Stock",
+      "availability": true,
+      "description": "Exquisite ornamental exhibition breed with laced plumage and frostbite-proof rose comb. Ideal for cold alpine conditions in Kulgam.",
+      "imageUrl": "/src/assets/images/wyandotte_breed_1791213283602.jpg",
+      "badge": "EXHIBITION RESERVE",
+      "features": [
+        "Pure heritage laced bloodline",
+        "Frostbite-proof rose comb",
+        "Selected pedigree breeding pen"
+      ]
+    },
+    {
+      "id": "prod-fertile-rir",
+      "name": "Rhode Island Red (RIR) Fertile Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 50,
+      "pricingOptions": {
+        "perEgg": 50,
+        "perDozen": 580,
+        "perTray": 1400
+      },
+      "stock": 90,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "Legendary dual-purpose heritage breed. Rich tinted brown eggs and excellent resistance to Himalayan mountain chills.",
+      "imageUrl": "/src/assets/images/rir_breed_1791213237888.jpg",
+      "badge": "DUAL PURPOSE",
+      "features": [
+        "Heavy body constitution",
+        "Strong shell thickness",
+        "Consistent winter layer"
+      ]
+    },
+    {
+      "id": "prod-fertile-brahma",
+      "name": "Columbian Brahma Fertile Hatching Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 150,
+      "pricingOptions": {
+        "perEgg": 150,
+        "perDozen": 1700
+      },
+      "stock": 35,
+      "stockStatus": "Limited Stock",
+      "availability": true,
+      "description": "King of all poultry. Massive size, gentle temperament, and heavily feathered shanks for extreme winter protection.",
+      "imageUrl": "/src/assets/images/columbian_brahma_1791213296977.jpg",
+      "badge": "FEATHER-FOOTED GIANT",
+      "features": [
+        "Massive bone structure",
+        "Heavily feathered shanks & feet",
+        "Himalayan cold resilient"
+      ]
+    },
+    {
+      "id": "prod-fertile-desi",
+      "name": "Pure Kashmiri Desi Fertile Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 50,
+      "pricingOptions": {
+        "perEgg": 50,
+        "perDozen": 580,
+        "perTray": 1400
+      },
+      "stock": 80,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "Indigenous Kashmir valley native birds. Supreme natural immunity, active foragers, and high maternal broodiness.",
+      "imageUrl": "/src/assets/images/kashmiri_desi_breed_1791213269060.jpg",
+      "badge": "VALLEY NATIVE",
+      "features": [
+        "100% Native indigenous genetics",
+        "High maternal instinct",
+        "Naturally disease resistant"
+      ]
+    },
+    {
+      "id": "prod-fertile-sonali",
+      "name": "Sonali Dual-Purpose Fertile Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 50,
+      "pricingOptions": {
+        "perEgg": 50,
+        "perDozen": 580,
+        "perTray": 1400
+      },
+      "stock": 100,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "Cross of RIR and Fayoumi. Fast growth, high disease tolerance, and excellent scavenging instincts for rural homesteads.",
+      "imageUrl": "/src/assets/images/sonali_breed_1791213251937.jpg",
+      "badge": "HOMESTEAD FAVORITE",
+      "features": [
+        "Fast growth rate",
+        "High survival index",
+        "Adaptable to backyard foraging"
+      ]
+    },
+    {
+      "id": "prod-fertile-leghorn",
+      "name": "White Leghorn Fertile Eggs",
+      "category": "Fertile Eggs",
+      "priority": 2,
+      "price": 35,
+      "pricingOptions": {
+        "perEgg": 35,
+        "perDozen": 400,
+        "perTray": 980
+      },
+      "stock": 110,
+      "stockStatus": "In Stock",
+      "availability": true,
+      "description": "Prolific chalk-white egg layers. Extremely efficient feed-to-egg conversion ratio.",
+      "imageUrl": "/src/assets/images/white_leghorn_1791213326180.jpg",
+      "badge": "HIGH EGG YIELD",
+      "features": [
+        "Pure chalk white eggshells",
+        "300+ eggs annual yield",
+        "High feed efficiency"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-1791273686550-75dcc0ad",
+      "orderId": "WPF-2026-00003",
+      "customerId": "cust-9876543210",
+      "customerName": "Ahmed Bhat",
+      "phone": "9876543210",
+      "address": "Kulgam, Jammu & Kashmir",
+      "productId": "prod-table-eggs-farm-fresh",
+      "productName": "Fresh Table Eggs",
+      "productCategory": "Table Eggs",
+      "packageType": "2 Trays (60 Eggs)",
+      "quantity": 2,
+      "unitPrice": 420,
+      "totalAmount": 840,
+      "orderDate": "06 October 2026",
+      "exactTime": "08:01 AM",
+      "createdAt": "2026-10-06T08:01:26.543Z",
+      "status": "Order Received",
+      "notes": "Please keep eggs safe in bubble wrap"
+    },
+    {
+      "id": "ord-101",
+      "orderId": "WPF-2026-00001",
+      "customerId": "cust-101",
+      "customerName": "Mohammad Altaf Rather",
+      "phone": "7006889922",
+      "address": "Qazigund Bypass Road, Kulgam, J&K",
+      "productId": "prod-table-eggs-farm-fresh",
+      "productName": "Fresh Table Eggs",
+      "productCategory": "Table Eggs",
+      "packageType": "2 Trays (60 Eggs)",
+      "quantity": 2,
+      "unitPrice": 420,
+      "totalAmount": 840,
+      "orderDate": "05 October 2026",
+      "exactTime": "10:30 AM",
+      "createdAt": "2026-10-05T10:30:00.000Z",
+      "status": "Ready",
+      "notes": "Please pack in sturdy cartons for safe transport."
+    },
+    {
+      "id": "ord-102",
+      "orderId": "WPF-2026-00002",
+      "customerId": "cust-102",
+      "customerName": "Shabir Ahmad Malik",
+      "phone": "9906543210",
+      "address": "Main Market, Kulgam Town, J&K",
+      "productId": "prod-fertile-australorp",
+      "productName": "Black Australorp Fertile Hatching Eggs",
+      "productCategory": "Fertile Eggs",
+      "packageType": "1 Tray (30 Hatching Eggs)",
+      "quantity": 1,
+      "unitPrice": 1400,
+      "totalAmount": 1400,
+      "orderDate": "06 October 2026",
+      "exactTime": "08:15 AM",
+      "createdAt": "2026-10-06T08:15:00.000Z",
+      "status": "Confirmed",
+      "notes": "For forced-draft incubator setting this evening."
+    }
+  ],
+  "offers": [
+    {
+      "id": "offer-autumn-tray-saver",
+      "title": "Autumn Fresh Table Egg Tray Special",
+      "description": "Direct farm harvest. Full 30-egg tray of fresh breakfast eggs for Kulgam families.",
+      "discount": "Save ₹60 on full 30-egg tray",
+      "badge": "TABLE EGG PROMO",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "isActive": true,
+      "bannerText": "Fresh Morning Collection from Razloo Kund • ₹420 / Tray (Regular ₹480)"
+    },
+    {
+      "id": "offer-incubation-tray",
+      "title": "Pre-Winter Breeder Incubation Tray",
+      "description": "30-Egg Hatching Tray of pure Black Australorp or RIR with shock-cushioned packaging.",
+      "discount": "Special Rate: ₹1,400 / Full 30-Egg Tray",
+      "badge": "BREEDER SAVER",
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-15",
+      "isActive": true,
+      "bannerText": "Acclimated to Kashmir Winters • Tested 85%+ Parent Fertility"
+    }
+  ],
+  "nextOrderNumber": 4
+}
